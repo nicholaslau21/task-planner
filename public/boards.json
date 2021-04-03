@@ -1,0 +1,62 @@
+[
+  { 
+    "id": "pendingBoard",
+    "name": "Pending",
+    "items": [
+      {
+        "id": "abc-123",
+        "title": "Buy fruit",
+        "description": "Please go to the nearby market later today Please go to the nearby market later today",
+        "attachment": "",
+        "estimatedTime": "12:00"
+      },
+      {
+        "id": "abc-336",
+        "title": "Buy peanut",
+        "description": "Please go to the nearby market later today",
+        "attachment": "",
+        "estimatedTime": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "processingBoard",
+    "name": "Processing",
+    "items": [
+      {
+        "id": "abc-156",
+        "title": "Buy fish",
+        "description": "Please go to the nearby market later today",
+        "attachment": "",
+        "estimatedTime": "14:00"
+      },
+      {
+        "id": "abc-997",
+        "title": "Buy honey",
+        "description": "Please go to the nearby market later today",
+        "attachment": "",
+        "estimatedTime": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "doneBoard",
+    "name": "Done",
+    "items": [
+      {
+        "id": "abc-249",
+        "title": "Buy computer",
+        "description": "Please go to the nearby market later today",
+        "attachment": "",
+        "estimatedTime": "16:00"
+      },
+      {
+        "id": "abc-898",
+        "title": "Buy honeydew",
+        "description": "Please go to the nearby market later today",
+        "attachment": "",
+        "estimatedTime": "17:00"
+      }
+    ]
+  }
+]
